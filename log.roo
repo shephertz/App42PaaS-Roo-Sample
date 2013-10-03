@@ -1,0 +1,7 @@
+// Spring Roo 1.2.3.RELEASE [rev 7fd62b6] log opened at 2013-10-03 14:11:46
+project --topLevelPackage com.shephertz.app42.paas
+web mvc setup
+web mvc all --package ~.web
+perform package
+quit
+// Spring Roo 1.2.3.RELEASE [rev 7fd62b6] log closed at 2013-10-03 14:17:13
